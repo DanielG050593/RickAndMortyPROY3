@@ -1,0 +1,26 @@
+.title{
+    color: rgb(68, 135, 68);
+    padding: 0.2em;
+    font-weight: 300px;
+}
+.ul_title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    padding-bottom:1em ;
+}
+.span-info{
+    display: block;
+}
+.d-cont{
+    background-color: #062226;
+    border-radius: 0.8em;
+    width: 70%;
+}
+.l-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+}

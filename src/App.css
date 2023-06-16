@@ -1,0 +1,25 @@
+.header{
+    max-height: 450px;
+    width: 100%;
+    object-fit: cover;
+    padding-bottom: 2em;
+}
+.app{
+    text-align: center;
+    width:  100%;
+    padding: 0em 30em;
+    color: white;
+}
+.spaceB{
+    padding: 1em;
+}
+.resident-container{
+    width: 100%;
+    column-count: 3;
+  column-gap: 20px;
+  
+
+  
+  
+    
+}

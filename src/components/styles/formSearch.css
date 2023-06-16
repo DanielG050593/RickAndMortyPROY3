@@ -1,0 +1,15 @@
+input{
+    border-radius: 0.3em 0em 0em 0.3em;
+    height: 30px;
+}
+
+button{
+    background-color: #71A821;
+    color:white;
+    border-radius: 0em 0.3em 0.3em 0em;
+    height: 30px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #496e11;
+}
